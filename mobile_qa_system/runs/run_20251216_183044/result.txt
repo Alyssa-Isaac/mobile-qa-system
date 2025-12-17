@@ -1,0 +1,4 @@
+PASS
+Matched: Hey bestie! This is my first app!
+Count: 1
+Examples: ['Hey bestie! This is my first app!']
