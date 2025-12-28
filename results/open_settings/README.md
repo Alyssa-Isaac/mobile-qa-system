@@ -12,4 +12,4 @@ a different Android application using the same executor and supervisor logic.
 - Verifies expected UI elements
 
 ### Demo
-See `demo.mp4.mov`
+See `demo.mp4(1).mov`
