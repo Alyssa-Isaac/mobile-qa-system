@@ -16,8 +16,13 @@ This document explains:
 ## Implemented Tasks
 
 - Task 01: UI Hierarchy Capture  
+  Captures and persists the Android UI hierarchy using UIAutomator for downstream verification.  
   See `results/task_01_ui_hierarchy/`
 
 - Task 02: Open Gmail  
+  Demonstrates end-to-end task execution using the supervisor–executor–verifier pipeline, including app launch, UI capture, and verification.  
   See `results/open_gmail/`
-This structure separates architectural reasoning from task execution, enabling scalable extension to additional Android UI tasks.
+
+- Task 03: Open Settings  
+  Demonstrates task reuse and extensibility by launching a different Android application using the same executor and supervisor logic.  
+  See `results/open_settings/`
