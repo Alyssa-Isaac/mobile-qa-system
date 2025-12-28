@@ -1,4 +1,4 @@
-## Task: Open Gmail on Android
+## Task 02: Open Gmail on Android
 
 ### Description
 This task demonstrates a minimal Android UI agent that autonomously interacts with an emulator to locate and open the Gmail application.
