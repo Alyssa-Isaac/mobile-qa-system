@@ -19,4 +19,4 @@ This task demonstrates a minimal Android UI agent that autonomously interacts wi
 The agent successfully opened the Gmail application and confirmed the task completion via UI verification.
 
 ### Demo
-See `demo.mp4` for a short screen recording of the agent execution.
+See `demo.mp4.mov` for a short screen recording of the agent execution.
